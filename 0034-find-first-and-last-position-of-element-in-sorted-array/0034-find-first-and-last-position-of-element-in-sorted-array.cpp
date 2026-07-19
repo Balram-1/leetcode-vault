@@ -7,7 +7,8 @@ public:
         // Find first occurrence of the target
         int low = 0, high = n - 1; //declare and initilize the start and ending 
 
-        //we are going to run 2 while loops first one will search for the first occurance by mainly finding in left side and second while loop will find the last occurance in the right side so that we can get both first and last occurance
+        //we are going to run 2 while loops first one will search for the first occurance by mainly finding in left side 
+        //second while loop will find the last occurance in the right side so that we can get both first and last occurance
         while (low <= high) {
             int mid = (low + high) / 2;
             if (nums[mid] >= target) high = mid - 1;
