@@ -15,4 +15,8 @@ leetcode-vault
 | [0033-search-in-rotated-sorted-array](https://github.com/Balram-1/leetcode-vault/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Balram-1/leetcode-vault/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Balram-1/leetcode-vault/tree/main/0035-search-insert-position/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Balram-1/leetcode-vault/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
