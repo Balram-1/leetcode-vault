@@ -33,4 +33,20 @@ leetcode-vault
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Balram-1/leetcode-vault/tree/main/0217-contains-duplicate/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
