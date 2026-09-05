@@ -31,11 +31,13 @@ leetcode-vault
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Balram-1/leetcode-vault/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Balram-1/leetcode-vault/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Balram-1/leetcode-vault/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Balram-1/leetcode-vault/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Balram-1/leetcode-vault/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Balram-1/leetcode-vault/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@ leetcode-vault
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Balram-1/leetcode-vault/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
