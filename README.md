@@ -55,6 +55,7 @@ leetcode-vault
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Balram-1/leetcode-vault/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@ leetcode-vault
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Balram-1/leetcode-vault/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Balram-1/leetcode-vault/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -80,4 +82,8 @@ leetcode-vault
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Balram-1/leetcode-vault/tree/main/0389-find-the-difference/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Balram-1/leetcode-vault/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
