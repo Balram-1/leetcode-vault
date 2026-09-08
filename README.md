@@ -9,6 +9,7 @@ leetcode-vault
 | [0033-search-in-rotated-sorted-array](https://github.com/Balram-1/leetcode-vault/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Balram-1/leetcode-vault/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Balram-1/leetcode-vault/tree/main/0035-search-insert-position/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Balram-1/leetcode-vault/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0217-contains-duplicate](https://github.com/Balram-1/leetcode-vault/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Balram-1/leetcode-vault/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Balram-1/leetcode-vault/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -55,6 +56,7 @@ leetcode-vault
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Balram-1/leetcode-vault/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Balram-1/leetcode-vault/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
@@ -86,4 +88,12 @@ leetcode-vault
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Balram-1/leetcode-vault/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Balram-1/leetcode-vault/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Balram-1/leetcode-vault/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
