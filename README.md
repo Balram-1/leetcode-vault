@@ -48,6 +48,7 @@ leetcode-vault
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Balram-1/leetcode-vault/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
